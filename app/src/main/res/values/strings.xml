@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PANE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PANE</string>
+    <string name="nav_header_subtitle">isaias@pane.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_add">Agregar</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- Productos -->
+    <string name="nameP1">Producto Pan 1</string>
+    <string name="descriptionP1">Descripción Producto Pan 1</string>
+    <string name="precioP1">$3\'000.000</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_show">MapsActivityShow</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyAT0Iq2o42BtVU7u8qrPbT2lzX21jUA5Zk</string>
+</resources>
